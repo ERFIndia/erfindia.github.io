@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Home Page
+cover_url: https://c1.staticflickr.com/5/4222/34182319754_076519693c_b.jpg
+position: 1200
+
 ---
 
 
