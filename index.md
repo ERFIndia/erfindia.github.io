@@ -13,7 +13,7 @@ The ERF has been granted tax exempt status under Section 80G (5) of the Income T
 
 Since its inception in 2001, the ERF has received funding from the United Nations Research Institute for Social Development, Geneva (UNRISD); the United Nations Development Programme, New York (UNDP); United Nations Children’s Fund, New York (UNICEF); Ford Foundation, New York; Ministry of International Co-operation, Government of Netherlands; HIVOS, The Netherlands; State Government of Madhya Pradesh, India; State Government of West Bengal, India; Action Aid; Alliance Broadcasting Private Limited, Mumbai; IDRC Canada
 
-# **Work**
+# Work
 
 [![](http://www.networkideas.org/wp-content/uploads/2016/07/ideaslogo24-278x73.png)](http://www.networkideas.org/ "Ideas")
 

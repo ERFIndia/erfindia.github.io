@@ -278,6 +278,10 @@ article h1 + *, article h1 + .aside + *, article h1 + .sidenote + *, article h2 
 @media screen and (max-width: 650px) {
   .column {
     width: 100%;
+    display: block; }
+
+  .column2 {
+    width: 100%;
     display: block; } }
 /* Add some shadows to create a card effect */
 .card {

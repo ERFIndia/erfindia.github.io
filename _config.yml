@@ -10,8 +10,7 @@ lang: en # site language (en/ja/zh-Hans/zh-Hant)
 color_scheme: github # this specifies color scheme for syntax highlighting
 github_username: erfindia
 twitter_username: 
-instagram_username: 
-facebook_username:
+facebook-official_username: google
 
 # Build settings
 markdown: kramdown
