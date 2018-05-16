@@ -1,6 +1,6 @@
 ---
-title: "Lorem"
+title: Lorem
 layout: post-list
 filter:
-  - by_tag: "Lorem"
+- by_tag: Lorem
 ---

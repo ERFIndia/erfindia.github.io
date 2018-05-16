@@ -1,6 +1,6 @@
 ---
-title: "Lore"
+title: Lore
 layout: post-list
 filter:
-  - by_tag: "Lore"
+- by_tag: Lore
 ---
