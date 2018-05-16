@@ -16,7 +16,7 @@ body {
 
 .wrapper {
   width: 100%;
-  max-width: $content-width;
+  max-width: $content-width*1.5; //change 2
   margin: 0 auto;
   padding-left: $content-padding;
   padding-right: $content-padding;

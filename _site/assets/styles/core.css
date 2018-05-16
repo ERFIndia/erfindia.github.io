@@ -114,7 +114,7 @@ body {
 
 .wrapper {
   width: 100%;
-  max-width: 680px;
+  max-width: 1020px;
   margin: 0 auto;
   padding-left: 16px;
   padding-right: 16px; }
@@ -432,7 +432,7 @@ article hr {
 .site-title, .site-title:hover, .site-title:visited {
   display: inline-block;
   font-variant-caps: all-petite-caps;
-  font-size: 0.875em;
+  font-size: 5vw;
   font-family: "Crimson Text", serif, "Kagami Emoji";
   border-bottom: none;
   white-space: nowrap; }
