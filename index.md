@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home
-cover_url: https://drive.google.com/open?id=1Zh2mn-FErnBbM5o5MDpdpStFV0rvglEZ.jpg
+cover_url: ''
 position: 1200
 ---
 Economic Research Foundation is a non-profit trust registered in New Delhi in January 2001. The purpose of the ERF is to conduct research in the field of economics and social issues, public policy, international economic affairs, and other current affairs, and to disseminate the results of such research and analysis through various means including through websites and face-to-face interactions.
