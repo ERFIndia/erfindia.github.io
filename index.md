@@ -23,6 +23,6 @@ IDEAs was established in September 2001, following a conference in Cape Town, So
 
 ERF acts as the secretariat for IDEAs (International Development Economics Associates).
 
-[![](http://www.macroscan.org/images/Head.gif)](macroscan.org)
+[![](http://www.macroscan.org/images/Head.gif)](http://macroscan.org)
 
-[MacroScan]() is a website seeking to provide an alternative to conservative and mainstream positions in economics. It undertakes and disseminates analyses, by professional economists, of the Indian and global economy.
+MacroScan is a website seeking to provide an alternative to conservative and mainstream positions in economics. It undertakes and disseminates analyses, by professional economists, of the Indian and global economy.
