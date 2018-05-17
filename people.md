@@ -16,7 +16,7 @@ navtitle: People
         <h2>Sashi Kumar</h2>
         <p class="title">Chairperson</p>
     
-        <p><button class="button">Contact</button></p>
+        
       </div>
     </div>
   </div>
@@ -28,7 +28,7 @@ navtitle: People
         <h2>Jayati Ghosh</h2>
         <p class="title">Trustee</p>
         
-        <p><button class="button">Contact</button></p>
+        
       </div>
     </div>
   </div>
@@ -40,7 +40,7 @@ navtitle: People
         <h2>CP Chandrasekhar</h2>
         <p class="title">Managing Trustee</p>
         
-        <p><button class="button">Contact</button></p>
+        
       </div>
     </div>
   </div>
@@ -55,7 +55,7 @@ navtitle: People
         <h2>Anilkumar Mani</h2>
         <p class="title">Administrative Officer</p>
     
-        <p><button class="button">Contact</button></p>
+        
       </div>
     </div>
   </div>
@@ -67,7 +67,7 @@ navtitle: People
         <h2>Surindra Rana</h2>
         <p class="title">Web Assistant</p>
         
-        <p><button class="button">Contact</button></p>
+        
       </div>
     </div>
   </div>
@@ -79,10 +79,22 @@ navtitle: People
         <h2>Gangaram Yadav</h2>
         <p class="title">Office Assistant</p>
         
-        <p><button class="button">Contact</button></p>
+        
       </div>
     </div>
   </div>
 </div> 
 <br>
 
+# Contact Us
+
+104 Munirka Enclave  
+New Delhi 110 067  
+Phone: +9111-26268791  
+Email: webmaster@erfindia.in
+
+<div>
+
+<div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=munirka enclave&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></div><a href="https://www.pureblack.de/webdesign-bremen/"></a><style>.mapouter{overflow:hidden;height:500px;width:600px;}.gmap_canvas {background:none!important;height:500px;width:600px;}</style></div>
+
+</div>

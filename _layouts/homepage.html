@@ -4,7 +4,12 @@ layout: default
 
 {% include site-nav.html %}
 
-{% include header.html %}
+
+
+<article class="page" lang="{{ page.lang | default: site.lang | default: "en" }}" itemscope itemtype="http://schema.org/BlogPosting">
+  {% include header.html %}
+  {{ content }}
+</article>
 
 <ul class="post-list">
   {% for rule in page.filter %}
@@ -30,9 +35,7 @@ layout: default
   {% endif %}
   {% for post in posts %}
   <li class="post-list-item" data-tags="{{ post.tags | join: " " }}">
-    {% if post.cover_url %}
-    <div class="post-item-cover" style="background-image: url('{{ post.cover_url }}')"></div>
-    {% endif %}
+    
     <div class="post-item-label">
       <a class="post-item-link baseline-fix" href="{{ post.url | relative_url }}" data-date="{{ post.date | date: "%m-%d"  }}">
         {{ post.title | escape }}
@@ -40,7 +43,17 @@ layout: default
       {% if post.description %}
       <p class="post-description">{{ post.description }}</p>
       {% endif %}
-      
+      <div class="post-item-meta">
+        {{ post.date | date: "%B %-d, %Y" }}
+        
+        {% capture lang %}{{ post.lang | default: site.lang | default: "en" }}{% endcapture %}
+        {% if lang == "en" %}
+        {% capture words %}{{ post.content | strip_html | number_of_words  }}{% endcapture %}
+        {% else %}
+        {% capture words %}{{ post.content | strip_html | size }}{% endcapture %}
+        {% endif %}
+        
+      </div>
     </div>
   </li>
   {% endfor %}

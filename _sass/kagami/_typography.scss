@@ -31,7 +31,7 @@ article {
 
   h2, h3, h4, h5, h6 {
     &::before {
-      content: "#";
+      content: "";
       display: inline-block;
       text-align: right;
       width: font-size(5);
@@ -119,10 +119,12 @@ article {
 .site-title, .site-title:hover, .site-title:visited {
   display: inline-block;
   font-variant-caps: all-petite-caps;
-  font-size: 3vw; //change 1
+  font-size: 4.5vh; //change 1
   @include font-serif;
   border-bottom: none;
   white-space: nowrap;
+
+
 }
 
 .site-nav {

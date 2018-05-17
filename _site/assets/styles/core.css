@@ -284,9 +284,6 @@ article h1 + *, article h1 + .aside + *, article h1 + .sidenote + *, article h2 
     width: 100%;
     display: block; } }
 /* Add some shadows to create a card effect */
-.card {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); }
-
 /* Some left and right padding inside the container */
 .container {
   padding: 0 16px; }
@@ -365,7 +362,7 @@ h5 {
   font-weight: bold; }
 
 article h2::before, article h3::before, article h4::before, article h5::before, article h6::before {
-  content: "#";
+  content: "";
   display: inline-block;
   text-align: right;
   width: 90px;
@@ -432,7 +429,7 @@ article hr {
 .site-title, .site-title:hover, .site-title:visited {
   display: inline-block;
   font-variant-caps: all-petite-caps;
-  font-size: 3vw;
+  font-size: 4.5vh;
   font-family: "Crimson Text", serif, "Kagami Emoji";
   border-bottom: none;
   white-space: nowrap; }
