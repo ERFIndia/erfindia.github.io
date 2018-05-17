@@ -9,9 +9,9 @@
   <meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search resu...">
 
   
-  <link rel="stylesheet" href="/assets/styles/core.css?v=20180511114729">
-  <link rel="stylesheet" href="/assets/styles/fontello.css?v=20180511114729">
-  <link rel="stylesheet" href="/assets/styles/highlighting/github.css?v=20180511114729">
+  <link rel="stylesheet" href="/assets/styles/core.css?v=20180517133135">
+  <link rel="stylesheet" href="/assets/styles/fontello.css?v=20180517133135">
+  <link rel="stylesheet" href="/assets/styles/highlighting/github.css?v=20180517133135">
 
   <link rel="canonical" href="http://localhost:4000/people.html">
   <link rel="alternate" type="application/rss+xml" title="Economic Research Foundation" href="/feed.xml">
@@ -24,6 +24,21 @@
   <body>
 
   <main class="page-content" aria-label="Content">
+  	<script type="text/javascript">
+  (function () {
+    var resize = function () {
+      this.width = 0.5 * (this.naturalWidth || this.width);
+    }
+    Array.prototype.forEach.call(document.querySelectorAll(".half-size, .retina2x"), function(el) {
+      if (el.naturalWidth) {
+        resize.call(el);
+      } else {
+        el.onload = resize;
+      }
+    });
+  })();
+</script>
+
     <div class="wrapper">
       <nav class="site-nav">
   
@@ -42,28 +57,30 @@
 <article class="page" lang="en" itemscope itemtype="http://schema.org/BlogPosting">
   <header class="post-header">
   <a class="site-title" href="/">Economic Research Foundation</a>
-  <h1 class="post-title baseline-fix" itemprop="name headline">People</h1>
+
 </header>
 
 
 <div class="post-cover" aria-label="Cover">
   <div class="post-cover-wrapper">
-    <img src="https://s2.banana.moe/unsplash_colle/amador-loureiro-779.jpg" alt="" />
+    <img src="/media/COVER .jpg" alt="" />
   </div>
-  <div class="cover-meta"><p>Photo by <a href="https://unsplash.com/@amadorloureiroblanco">Amador Loureiro</a></p>
+  <div class="cover-meta">
 </div>
 </div>
 
 
-  <h1 id="trustees">Trustees</h1>
+<br>
+  <h1 class="post-title baseline-fix" itemprop="name headline">People</h1>
 
-<div class="row">
+
+  <div class="row">
   <div class="column">
     <div class="card">
-      <img src="http://www.networkideas.org/wp-content/uploads/2016/08/cpcphoto.jpg" alt="Jane" style="width:100%" />
+      <img src="media/person-placeholder.jpg" alt="Jane" style="width:100%" />
       <div class="container">
-        <h2>Cool Person 1</h2>
-        <p class="title">JNU</p>
+        <h2>Sashi Kumar</h2>
+        <p class="title">Chairperson</p>
     
         <p><button class="button">Contact</button></p>
       </div>
@@ -72,10 +89,10 @@
 
   <div class="column">
     <div class="card">
-      <img src="http://www.networkideas.org/wp-content/uploads/2016/08/jayatiphoto.jpg" alt="Mike" style="width:100%" />
+      <img src="media/person-placeholder.jpg" alt="Mike" style="width:100%" />
       <div class="container">
-        <h2>Cool Person 2</h2>
-        <p class="title">JNU</p>
+        <h2>Jayati Ghosh</h2>
+        <p class="title">Trustee</p>
         
         <p><button class="button">Contact</button></p>
       </div>
@@ -84,10 +101,10 @@
 
   <div class="column">
     <div class="card">
-      <img src="http://www.networkideas.org/wp-content/uploads/2016/08/jayatiphoto.jpg" alt="John" style="width:100%" />
+      <img src="media/person-placeholder.jpg" alt="John" style="width:100%" />
       <div class="container">
-        <h2>Not So Cool</h2>
-        <p class="title">But why :'(</p>
+        <h2>CP Chandrasekhar</h2>
+        <p class="title">Managing Trustee</p>
         
         <p><button class="button">Contact</button></p>
       </div>
@@ -96,52 +113,50 @@
 </div>
 <p><br /></p>
 
-<h1 id="advisory-board">Advisory Board</h1>
-
 <div class="row">
-  <div class="column2">
+  <div class="column">
     <div class="card">
-      <img src="http://www.networkideas.org/wp-content/uploads/2016/08/cpcphoto.jpg" alt="Jane" style="width:100%" />
+      <img src="media/person-placeholder.jpg" alt="Jane" style="width:100%" />
       <div class="container">
-        <h2>Prabhat Patnaik</h2>
-        <p class="title">JNU</p>
+        <h2>Anilkumar Mani</h2>
+        <p class="title">Administrative Officer</p>
     
         <p><button class="button">Contact</button></p>
       </div>
     </div>
   </div>
 
-  <div class="column2">
+  <div class="column">
     <div class="card">
-      <img src="http://indianculturalforum.in/wp-content/uploads/2017/03/Patnaik-compressed.png" alt="Mike" style="width:100%" />
+      <img src="media/person-placeholder.jpg" alt="Mike" style="width:100%" />
       <div class="container">
-        <h2>Abhijit Sen</h2>
-        <p class="title">JNU</p>
+        <h2>Surindra Rana</h2>
+        <p class="title">Web Assistant</p>
+        
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="media/person-placeholder.jpg" alt="John" style="width:100%" />
+      <div class="container">
+        <h2>Gangaram Yadav</h2>
+        <p class="title">Office Assistant</p>
         
         <p><button class="button">Contact</button></p>
       </div>
     </div>
   </div>
 </div>
+<p><br /></p>
+
 
 </article>
 
     </div>
-    <script type="text/javascript">
-  (function () {
-    var resize = function () {
-      this.width = 0.5 * (this.naturalWidth || this.width);
-    }
-    Array.prototype.forEach.call(document.querySelectorAll(".half-size, .retina2x"), function(el) {
-      if (el.naturalWidth) {
-        resize.call(el);
-      } else {
-        el.onload = resize;
-      }
-    });
-  })();
-</script>
-
+    
   </main>
 
   <footer class="site-footer">
@@ -160,7 +175,7 @@
      
     </div>
     <div class="credits">
-      ERF Copyright whatever reserved legaspeak yoooo
+      ERF - All Rights Reserved.
     </div>
   </div>
 

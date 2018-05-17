@@ -9,9 +9,9 @@
   <meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search resu...">
 
   
-  <link rel="stylesheet" href="/assets/styles/core.css?v=20180511114729">
-  <link rel="stylesheet" href="/assets/styles/fontello.css?v=20180511114729">
-  <link rel="stylesheet" href="/assets/styles/highlighting/github.css?v=20180511114729">
+  <link rel="stylesheet" href="/assets/styles/core.css?v=20180517133135">
+  <link rel="stylesheet" href="/assets/styles/fontello.css?v=20180517133135">
+  <link rel="stylesheet" href="/assets/styles/highlighting/github.css?v=20180517133135">
 
   <link rel="canonical" href="http://localhost:4000/work.html">
   <link rel="alternate" type="application/rss+xml" title="Economic Research Foundation" href="/feed.xml">
@@ -24,6 +24,21 @@
   <body>
 
   <main class="page-content" aria-label="Content">
+  	<script type="text/javascript">
+  (function () {
+    var resize = function () {
+      this.width = 0.5 * (this.naturalWidth || this.width);
+    }
+    Array.prototype.forEach.call(document.querySelectorAll(".half-size, .retina2x"), function(el) {
+      if (el.naturalWidth) {
+        resize.call(el);
+      } else {
+        el.onload = resize;
+      }
+    });
+  })();
+</script>
+
     <div class="wrapper">
       <nav class="site-nav">
   
@@ -42,9 +57,21 @@
 <article class="page" lang="en" itemscope itemtype="http://schema.org/BlogPosting">
   <header class="post-header">
   <a class="site-title" href="/">Economic Research Foundation</a>
-  <h1 class="post-title baseline-fix" itemprop="name headline">Work</h1>
+
 </header>
 
+
+<div class="post-cover" aria-label="Cover">
+  <div class="post-cover-wrapper">
+    <img src="/media/COVER .jpg" alt="" />
+  </div>
+  <div class="cover-meta">
+</div>
+</div>
+
+
+<br>
+  <h1 class="post-title baseline-fix" itemprop="name headline">Work</h1>
 
 
   <p><a href="http://www.networkideas.org/" title="Ideas"><img src="http://www.networkideas.org/wp-content/uploads/2016/07/ideaslogo24-278x73.png" alt="" /></a></p>
@@ -55,28 +82,19 @@
 
 <p>ERF acts as the secretariat for IDEAs (International Development Economics Associates).</p>
 
-<p><a href="macroscan.org"><img src="http://www.macroscan.org/images/Head.gif" alt="" /></a></p>
+<p><a href="http://macroscan.org"><img src="media/Macroscan_Logo_Final.jpg" alt="" /></a></p>
 
-<p><a href="">MacroScan</a> is a website seeking to provide an alternative to conservative and mainstream positions in economics. It undertakes and disseminates analyses, by professional economists, of the Indian and global economy.</p>
+<p>MacroScan is a website seeking to provide an alternative to conservative and mainstream positions in economics. It undertakes and disseminates analyses, by professional economists, of the Indian and global economy.</p>
+
+<p><a href="http://mappingfinance.org/"><img src="media/mf.png" alt="" /></a></p>
+
+<p>MappingFinance is a joint initiative of International Development Economics Associates (IDEAs) and the Economic Research Foundation in collaboration with the Levy Economics Institute of Bard College and with support from the Ford Foundation under its Reforming Global Financial Governance initiative.
+mappingfinance.org seeks to contribute to this project by mapping developments in financial sectors, particularly in Asia. It seeks to track and analyse broader global developments, contextualise their impact on emerging economies and trace attempts to regulate financial sectors and address the challenges faced therein.</p>
 
 </article>
 
     </div>
-    <script type="text/javascript">
-  (function () {
-    var resize = function () {
-      this.width = 0.5 * (this.naturalWidth || this.width);
-    }
-    Array.prototype.forEach.call(document.querySelectorAll(".half-size, .retina2x"), function(el) {
-      if (el.naturalWidth) {
-        resize.call(el);
-      } else {
-        el.onload = resize;
-      }
-    });
-  })();
-</script>
-
+    
   </main>
 
   <footer class="site-footer">
@@ -95,7 +113,7 @@
      
     </div>
     <div class="credits">
-      ERF Copyright whatever reserved legaspeak yoooo
+      ERF - All Rights Reserved.
     </div>
   </div>
 

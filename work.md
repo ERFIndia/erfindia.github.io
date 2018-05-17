@@ -3,6 +3,7 @@ layout: page
 title: Work
 navlevel: header
 navtitle: Work
+cover_url: '/media/COVER .jpg'
 ---
 [![](http://www.networkideas.org/wp-content/uploads/2016/07/ideaslogo24-278x73.png)](http://www.networkideas.org/ "Ideas")
 
@@ -12,6 +13,11 @@ IDEAs was established in September 2001, following a conference in Cape Town, So
 
 ERF acts as the secretariat for IDEAs (International Development Economics Associates).
 
-[![](http://www.macroscan.org/images/Head.gif)](macroscan.org)
+[![](media/Macroscan_Logo_Final.jpg)](http://macroscan.org)
 
-[MacroScan]() is a website seeking to provide an alternative to conservative and mainstream positions in economics. It undertakes and disseminates analyses, by professional economists, of the Indian and global economy.
+MacroScan is a website seeking to provide an alternative to conservative and mainstream positions in economics. It undertakes and disseminates analyses, by professional economists, of the Indian and global economy.
+
+[![](media/mf.png)](http://mappingfinance.org/)
+
+MappingFinance is a joint initiative of International Development Economics Associates (IDEAs) and the Economic Research Foundation in collaboration with the Levy Economics Institute of Bard College and with support from the Ford Foundation under its Reforming Global Financial Governance initiative.
+mappingfinance.org seeks to contribute to this project by mapping developments in financial sectors, particularly in Asia. It seeks to track and analyse broader global developments, contextualise their impact on emerging economies and trace attempts to regulate financial sectors and address the challenges faced therein.

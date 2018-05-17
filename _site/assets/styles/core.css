@@ -432,7 +432,7 @@ article hr {
 .site-title, .site-title:hover, .site-title:visited {
   display: inline-block;
   font-variant-caps: all-petite-caps;
-  font-size: 5vw;
+  font-size: 3vw;
   font-family: "Crimson Text", serif, "Kagami Emoji";
   border-bottom: none;
   white-space: nowrap; }

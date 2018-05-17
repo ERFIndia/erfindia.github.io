@@ -2,14 +2,13 @@
 layout: page
 title: Research
 lang: en
-cover_url: https://s2.banana.moe/unsplash_colle/amador-loureiro-779.jpg
-cover_meta: |
-  Photo by [Amador Loureiro](https://unsplash.com/@amadorloureiroblanco)
+cover_url: '/media/COVER .jpg'
+
 position: 12
 navlevel: header
 navtitle: Research
 ---
-# Research
+
 
 * Organising the preparation of the West Bengal Human Development Report, in collaboration with the Government of West Bengal and the Planning Commission, funded by the UNDP, New Delhi and the Planning Commission, Government of India.
 * Project completed in May 2004 with publication of the Report.  Project on “Cross-border transmission of ICT and development” for Indo-Dutch Programme on Alternatives in Development, funded by Government of the
