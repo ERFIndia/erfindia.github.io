@@ -2,8 +2,7 @@
 layout: page
 title: People
 lang: en
-cover_url: '/media/COVER .jpg'
-
+cover_url: "/media/COVER .jpg"
 position: 100
 navlevel: header
 navtitle: People
