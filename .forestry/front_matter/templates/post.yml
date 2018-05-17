@@ -1,0 +1,28 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: layout
+  label: layout
+  default: post
+  hidden: true
+- type: text
+  name: title
+  label: Title
+  hidden: false
+  description: Enter Post Title
+  config:
+    required: true
+- type: datetime
+  name: date
+  label: date
+  description: Enter Post Date
+  config:
+    date_format: YYYY-MM-DD
+    required: true
+- type: text
+  label: cover
+  name: cover_url
+  default: '"/media/COVER .jpg"'
+  description: Replace with cover link
