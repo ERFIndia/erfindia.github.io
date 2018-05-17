@@ -1,10 +1,10 @@
 ---
-title: Sample Post 1
+title: Project Crayon
 layout: post
 cover_url: "/media/COVER .jpg"
 date: 2018-02-12 19:19:39 +0530
 ---
-Here is a sample post.
+Crayons are fun
 
 Here is an actual cool blogpost
 
