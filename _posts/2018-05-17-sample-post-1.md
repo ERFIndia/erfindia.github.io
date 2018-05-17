@@ -1,7 +1,7 @@
 ---
 title: Sample Post 1
 layout: post
-cover_url: '"/media/COVER .jpg"'
+cover_url: "/media/COVER .jpg"
 date: 2018-02-12 19:19:39 +0530
 ---
 Here is a sample post.
