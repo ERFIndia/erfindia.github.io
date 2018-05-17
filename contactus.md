@@ -2,19 +2,19 @@
 layout: page
 title: Contact Us
 lang: en
-cover_url: "/media/COVER .jpg"
+cover_url: https://s2.banana.moe/unsplash_colle/amador-loureiro-779.jpg
 cover_meta: |
-  ERF
-position: 123
+  Photo by [Amador Loureiro](https://unsplash.com/@amadorloureiroblanco)
+position: 100
 navlevel: header
 navtitle: Contact Us
 ---
-
+**Contact us:**
 
 104 Munirka Enclave  
 New Delhi 110 067  
 Phone: +9111-26268791  
-Email:
+Email: webmaster@erfindia.in
 
 <div>
 
