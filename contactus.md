@@ -3,8 +3,7 @@ layout: page
 title: Contact Us
 lang: en
 cover_url: "/media/COVER .jpg"
-cover_meta: |
-
+cover_meta: ''
 position: 100
 navlevel: header
 navtitle: Contact Us
