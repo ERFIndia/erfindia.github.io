@@ -26,5 +26,5 @@ fields:
 - type: text
   label: cover
   name: cover_url
-  default: '"/media/COVER .jpg"'
+  default: "/media/COVER .jpg"
   description: Replace with cover link
