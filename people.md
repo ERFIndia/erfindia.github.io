@@ -36,7 +36,7 @@ navtitle: People
 
   <div class="column">
     <div class="card">
-      <img src="media/person-placeholder.jpg" alt="John" style="width:100%">
+      <img src="media/cpc.jpeg" alt="John" style="width:100%">
       <div class="container">
         <h2>CP Chandrasekhar</h2>
         <p class="title">Managing Trustee</p>
