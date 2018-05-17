@@ -2,8 +2,7 @@
 layout: page
 title: Research
 lang: en
-cover_url: '/media/COVER .jpg'
-
+cover_url: "/media/COVER .jpg"
 position: 12
 navlevel: header
 navtitle: Research

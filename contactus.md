@@ -2,7 +2,7 @@
 layout: page
 title: Contact Us
 lang: en
-cover_url: '/media/COVER .jpg'
+cover_url: "/media/COVER .jpg"
 cover_meta: |
   ERF
 position: 123

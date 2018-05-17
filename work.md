@@ -3,7 +3,7 @@ layout: page
 title: Work
 navlevel: header
 navtitle: Work
-cover_url: '/media/COVER .jpg'
+cover_url: "/media/COVER .jpg"
 ---
 [![](http://www.networkideas.org/wp-content/uploads/2016/07/ideaslogo24-278x73.png)](http://www.networkideas.org/ "Ideas")
 
