@@ -8,6 +8,4 @@ Economic Research Foundation is a non-profit trust registered in New Delhi in Ja
 
 ---
 
----
-
-### Recent Posts
+## Recent Posts
