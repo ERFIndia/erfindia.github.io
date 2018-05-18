@@ -7,7 +7,7 @@ description: Superman
 ---
 ### [The Banking Conundrum: Non-performing Assets and Neo-liberal Reform]()
 
-###### C P Chandrasekhar
+> C P Chandrasekhar
 
 As ﬁscal year 2017–18 drew to a close, the Government of India  decided to bite the bullet and implement a proposal to “resolve” what  was being presented as one of the leading challenges then facing the  Indian economy: large non-performing assets (NPAs) on the books of the  banks, especially the public sector banks (PSBs).The Recapitalisation  plan, ﬁrst announced in October 2017, involved infusing ‘2.11 lakh crore  of new equity into the PSBs, of which ‘1,35,000 crore would be new  money from the government, ﬁnanced with recapitalisation bonds. Another  ‘18,139 crore was the balance due under the ‘70,000 crore Indradhanush  plan initiated in August 2015 and funded from the government’s budget.  The remaining ‘57,861 crore was to be mobilised by the banks from the  market. The plan was to clean up the books of the banks to a signiﬁcant  extent, enabling them to adhere to the Reserve Bank of India’s (RBI)  voluntary decision to get banks to meet Basel III-type capital adequacy  norms by 2019.
 
