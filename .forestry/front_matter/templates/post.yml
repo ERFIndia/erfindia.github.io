@@ -1,7 +1,7 @@
 ---
 pages:
-- _posts/mapping-finance.md
 - _posts/2018-05-18-macroscan.md
+- _posts/mapping-finance.md
 - _posts/2018-05-17-sample-post-1.md
 hide_body: false
 is_partial: false
@@ -30,3 +30,6 @@ fields:
   name: cover_url
   default: "/media/COVER .jpg"
   description: Replace with cover link
+- type: text
+  name: description
+  label: Description/Author
