@@ -1,8 +1,8 @@
 ---
-title: 'IDEAs: THE BANKING CONUNDRUM'
+title: 'IDEAs: The Banking Conundrum'
 layout: post
 cover_url: "/media/COVER .jpg"
-date: 2018-02-12 13:49:39 +0000
+date: 2018-05-01 19:19:39 +0530
 ---
 ### [The Banking Conundrum: Non-performing Assets and Neo-liberal Reform]()
 
