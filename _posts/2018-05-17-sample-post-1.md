@@ -3,6 +3,7 @@ title: 'IDEAs: The Banking Conundrum'
 layout: post
 cover_url: "/media/COVER .jpg"
 date: 2018-05-01 19:19:39 +0530
+description: Superman
 ---
 ### [The Banking Conundrum: Non-performing Assets and Neo-liberal Reform]()
 
