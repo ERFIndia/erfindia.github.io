@@ -20,12 +20,7 @@ navtitle: People
 
 </div>
 
-<div class="column">
-<div class="card">
-<img src="media/person-placeholder.jpg" alt="Mike" style="width:100%">
-<div class="container">
-<h2>Jayati Ghosh</h2>
-<p class="title">Trustee</p>
+<div class="column"> <div class="card"> <img src="media/jayati.jpg" alt="Mike" style="width:100%"> <div class="container"> <h2>Jayati Ghosh</h2> <p class="title">Trustee</p>
 
       </div>
     </div>
