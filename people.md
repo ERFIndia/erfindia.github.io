@@ -80,7 +80,6 @@ navtitle: People
     </div>
 
 </div>
-</div>
 
 <div class="row"> <div class="column"> <div class="card"> <img src="media/person-placeholder.jpg" alt="Jane" style="width:100%"> <div class="container"> <h2>Nancy Yadav</h2> <p class="title">Research Associate</p>
 
