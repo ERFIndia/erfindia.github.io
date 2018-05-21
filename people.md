@@ -41,13 +41,14 @@ navtitle: People
 </div>
 <br>
 
-<div class="row">
-<div class="column">
-<div class="card">
-<img src="media/person-placeholder.jpg" alt="Jane" style="width:100%">
-<div class="container">
-<h2>Anilkumar Mani</h2>
-<p class="title">Administrative Officer</p>
+<div class="row"> <div class="column"> <div class="card"> <img src="media/Anil.jpg" alt="Jane" style="width:100%"> <div class="container"> <h2>Anilkumar Mani</h2> <p class="title">Administrative Officer</p>
+
+      </div>
+    </div>
+
+</div>
+
+<div class="row"> <div class="column"> <div class="card"> <img src="media/person-placeholder.jpg" alt="Jane" style="width:100%"> <div class="container"> <h2>Vikas Raawal</h2> <p class="title">Advisor</p>
 
       </div>
     </div>
@@ -66,6 +67,8 @@ navtitle: People
 
 </div>
 
+<br>
+
 <div class="column">
 <div class="card">
 <img src="media/person-placeholder.jpg" alt="John" style="width:100%">
@@ -78,4 +81,19 @@ navtitle: People
 
 </div>
 </div>
+
+<div class="row"> <div class="column"> <div class="card"> <img src="media/person-placeholder.jpg" alt="Jane" style="width:100%"> <div class="container"> <h2>Nancy yadav</h2> <p class="title">Research Associate</p>
+
+      </div>
+    </div>
+
+</div>
+
+<div class="column"> <div class="card"> <img src="media/person-placeholder.jpg" alt="Mike" style="width:100%"> <div class="container"> <h2>Shreya Sharma</h2> <p class="title">Research Associate</p>
+
+      </div>
+    </div>
+
+</div>
+
 <br>
