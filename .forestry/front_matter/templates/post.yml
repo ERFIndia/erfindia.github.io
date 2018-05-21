@@ -1,8 +1,4 @@
 ---
-pages:
-- _posts/2018-05-18-macroscan.md
-- _posts/2018-05-18-mapping-finance.md
-- _posts/2018-05-17-sample-post-1.md
 hide_body: false
 is_partial: false
 fields:
@@ -33,3 +29,7 @@ fields:
 - type: text
   name: description
   label: Description/Author
+pages:
+- _posts/2018-05-18-macroscan.md
+- _posts/2018-05-18-mapping-finance.md
+- _posts/2018-05-17-sample-post-1.md
