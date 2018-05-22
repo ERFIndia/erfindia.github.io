@@ -2,7 +2,7 @@
 layout: page
 title: Research
 lang: en
-cover_url: https://s2.banana.moe/unsplash_colle/amador-loureiro-779.jpg
+cover_url: "/media/COVER .jpg"
 cover_meta: |
   Photo by [Amador Loureiro](https://unsplash.com/@amadorloureiroblanco)
 position: 12
