@@ -17,7 +17,7 @@ navtitle: Research
 * Project on “Macroeconomic implications of trade and financial liberalisation: A comparative study of China, India, Mexico and Thailand”, sponsored by UNDP New York under UNDP Project Document GLO/03/515. Project dates January 2005 to January 2006.
 * Workshop on “[Financial Crime and Fragility under Financial Globalisation](http://www.networkideas.org/ideas-activities/2005/12/workshop-entitled-financial-crime-and-fragility-under-financial-globalisation/)”, India Habitat Centre, New Delhi, India, December 19-20, 2005.
 * Capacity building workshop “[Macroeconomic Constraints and Policy Alternatives in Developing Countries](http://www.networkideas.org/ideas-activities/2006/01/international-workshop-on-macro-economic-constraints-and-policy-alternatives-in-developing-countries/)", over January 22-26, 2006., held in Muttukadu, Tamil Nadu.
-* International conference on “Post-liberalisation constraints on macroeconomic policies”, in Muttukadu, Tamil Nadu, India, January 27-29, 2006.
+* International conference on “[Post-liberalisation Constraints on Macroeconomic Policies]( http://www.networkideas.org/ideas-activities/2006/01/international-conference-on-post-liberalisation-constraints-on-macroeconomic-policies/)”, in Muttukadu, Tamil Nadu, India, January 27-29, 2006.
 * Research support and analysis of economic trends related to real estate for Alliance Broadcasting Private Limited, April 2007 – March 2009.
 * Preparation of Second West Bengal Human Development Report for the state government of West Bengal, March 2007 – December 2008.
 * Project on “Economic rights and entitlements on separation and divorce” IDRC Canada, May 2008 – December 2011.
