@@ -9,7 +9,6 @@ position: 12
 navlevel: header
 navtitle: Research
 ---
-
 * Organised an international conference on “[International Money and Macro-economic Policies of Developing Countries](http://www.networkideas.org/ideas-activities/2001/12/international-conference-on-international-money-and-developing-countries-theoretical-and-policy-issues-in-the-current-context/  )” in December 2002, funded by the United Nations Development Programme, New York. **IDEAs**
 * Organised the preparation of the West Bengal Human Development Report, in collaboration with the Government of West Bengal and the Planning Commission, funded by the UNDP, New Delhi and the Planning Commission, Government of India. Project completed in May 2004 with publication of the Report.
 * Project on “Cross-border transmission of ICT and development” for Indo-Dutch Programme on Alternatives in Development, funded by Government of the Netherlands and routed through the Indian Council of Social Science Research, New Delhi. Project dates: October 2003 to June 2006.
@@ -20,8 +19,8 @@ navtitle: Research
 * Research support and analysis of economic trends related to real estate for Alliance Broadcasting Private Limited, April 2007 – March 2009.
 * Preparation of Second West Bengal Human Development Report for the state government of West Bengal, March 2007 – December 2008.
 * Project on “Economic rights and entitlements on separation and divorce” IDRC Canada, May 2008 – December 2011.
-* Ford Foundation project on “Financial Sector Regulation for Developing Country Financial Regimes: The Case of Asia”, Phase I-October 2008-September 2010 and Phase II-October 2010 to September 2012.
+* Ford Foundation project on “[Financial Sector Regulation for Developing Country Financial Regimes: The Case of Asia](http://www.networkideas.org/ideasact/dec09/Muttukadu/pdf/Anis_Chowdhury.pdf)”, Phase I-October 2008-September 2010 and Phase II-October 2010 to September 2012.
 * UNICEF e-learning and face-to-face training programmes for three years on “Evidence-based Policy-Analysis and Advocacy related to Development and Child Rights”, 2011-13.
-* Conference for Ford Foundation China, bringing together feminist economists from China and India, Kunming, China, 12-14 March 2014.
+* [Conference](http://www.macroscan.org/ann/oct13/ann301013_China_India.htm) for Ford Foundation China, bringing together feminist economists from China and India, Kunming, China, 12-14 March 2014.
 * Ford Foundation research project on “Public ownership, regulation and the stability of banking in China”, October 2012 to September 2015.
-* Indian Council for Social Science Research (ICSSR) research project on “Regional financial co-operation in Asia”, 2014-16.
+* Indian Council for Social Science Research (ICSSR) research project on “[Regional financial co-operation in Asia](http://www.networkideas.org/ideas-activities/2015/01/workshop-on-diverse-regional-responses-to-the-global-crisis-implications-for-finance-and-the-real-economy-24-26-january-2015-muttukadu-chennai-india/)”, 2014-16.
