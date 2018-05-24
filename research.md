@@ -21,6 +21,6 @@ navtitle: Research
 * Project on “Economic rights and entitlements on separation and divorce” IDRC Canada, May 2008 – December 2011.
 * Ford Foundation project on “[Financial Sector Regulation for Developing Country Financial Regimes: The Case of Asia](http://www.networkideas.org/ideasact/dec09/Muttukadu/pdf/Anis_Chowdhury.pdf)”, Phase I-October 2008-September 2010 and Phase II-October 2010 to September 2012.
 * UNICEF e-learning and face-to-face training programmes for three years on “Evidence-based Policy-Analysis and Advocacy related to Development and Child Rights”, 2011-13.
-* [Conference](http://www.macroscan.org/ann/oct13/ann301013_China_India.htm) for Ford Foundation China, bringing together feminist economists from China and India, Kunming, China, 12-14 March 2014.
+* Conference for Ford Foundation China, bringing together feminist economists from China and India, Kunming, China, 12-14 March 2014.
 * Ford Foundation research project on “Public ownership, regulation and the stability of banking in China”, October 2012 to September 2015.
 * Indian Council for Social Science Research (ICSSR) research project on “[Regional financial co-operation in Asia](http://www.networkideas.org/ideas-activities/2015/01/workshop-on-diverse-regional-responses-to-the-global-crisis-implications-for-finance-and-the-real-economy-24-26-january-2015-muttukadu-chennai-india/)”, 2014-16.
