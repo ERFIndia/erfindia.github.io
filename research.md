@@ -23,4 +23,4 @@ navtitle: Research
 * UNICEF e-learning and face-to-face training programmes for three years on “Evidence-based Policy-Analysis and Advocacy related to Development and Child Rights”, 2011-13.
 * Conference for Ford Foundation China, bringing together feminist economists from China and India, Kunming, China, 12-14 March 2014.
 * Ford Foundation research project on “Public ownership, regulation and the stability of banking in China”, October 2012 to September 2015.
-* Indian Council for Social Science Research (ICSSR) research project on “[Regional financial co-operation in Asia](http://www.networkideas.org/ideas-activities/2015/01/workshop-on-diverse-regional-responses-to-the-global-crisis-implications-for-finance-and-the-real-economy-24-26-january-2015-muttukadu-chennai-india/)”, 2014-16.
+* Indian Council for Social Science Research (ICSSR) research project on “Regional financial co-operation in Asia”, 2014-16.
