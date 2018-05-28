@@ -83,7 +83,7 @@ navtitle: People
 
 </div>
 
-<div class="column"> <div class="card"> <img src="media/person-placeholder.jpg" alt="Mike" style="width:100%"> <div class="container"> <h2>Shreya Sharma</h2> <p class="title">Research Associate</p>
+<div class="column"> <div class="card"> <img src="media/Shreya.jpg" alt="Mike" style="width:100%"> <div class="container"> <h2>Shreya Sharma</h2> <p class="title">Research Associate</p>
 
       </div>
     </div>
@@ -92,7 +92,7 @@ navtitle: People
 
 <br>
 
-<div class="column"> <div class="card"> <img src="media/person-placeholder.jpg" alt="Mike" style="width:100%"> <div class="container"> <h2>Alisha George</h2> <p class="title">Intern</p>
+<div class="column"> <div class="card"> <img src="media/Alisha.jpg" alt="Mike" style="width:100%"> <div class="container"> <h2>Alisha George</h2> <p class="title">Intern</p>
 
       </div>
     </div>
