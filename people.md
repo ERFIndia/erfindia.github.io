@@ -55,12 +55,7 @@ navtitle: People
 
 </div>
 
-<div class="column">
-<div class="card">
-<img src="media/person-placeholder.jpg" alt="Mike" style="width:100%">
-<div class="container">
-<h2>Surindra Rana</h2>
-<p class="title">Web Assistant</p>
+<div class="column"> <div class="card"> <img src="media/person-placeholder.jpg" alt="Mike" style="width:100%"> <div class="container"> <h2>Surender Rana</h2> <p class="title">Web Assistant</p>
 
       </div>
     </div>
@@ -96,3 +91,10 @@ navtitle: People
 </div>
 
 <br>
+
+<div class="column"> <div class="card"> <img src="media/person-placeholder.jpg" alt="Mike" style="width:100%"> <div class="container"> <h2>Alisha George</h2> <p class="title">Intern</p>
+
+      </div>
+    </div>
+
+</div>
