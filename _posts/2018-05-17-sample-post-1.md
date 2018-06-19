@@ -41,4 +41,4 @@ The breakdown of the US services balance, shown in Chart 3, is  revealing. The U
 
 What are the implications of all this for the US’s trading partners?  The obvious lessons are already well known: do not expect any  concessions from the US on any front and watch your own back. But there  are other less obvious lessons. Pious neoliberal multilateralism, as  expressed in the rules and operations of the WTO, created a system of  monstrous but legally entrenched inequalities. The implosion of that  system lays bare some of its hypocrisy. Perhaps smashing the myth of  benign intent will allow all countries to demand policy space to address  the real concerns of their own citizens.
 
-\(This article was originally published in the Business Line on June 18, 2018)
+[(This article was originally published in the Business Line on June 18, 2018)](http://www.networkideas.org/featured-articles/2018/06/has-donald-trump-already-changed-us-trade/)
