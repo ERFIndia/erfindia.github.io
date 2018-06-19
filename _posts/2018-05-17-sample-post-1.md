@@ -2,8 +2,8 @@
 title: 'IDEAs: Has Donald Trump Already Changed US Trade?'
 layout: post
 cover_url: "/media/COVER .jpg"
-date: 2018-05-01 13:49:39 +0000
-description: C P Chandrasekhar
+date: 2018-06-19 00:00:00 +0530
+description: C P Chandrasekhar and Jayati Ghosh
 ---
 ## Has Donald Trump Already Changed US Trade?
 
