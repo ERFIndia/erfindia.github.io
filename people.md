@@ -30,7 +30,7 @@ navtitle: People
 </div>
 <br>
 
-<div class="row"> <div class="column"> <div class="card"> <img src="media/person-placeholder.jpg" alt="Jane" style="width:100%"> <div class="container"> <h2>Vikas Rawal</h2> <p class="title">Advisor</p>
+<div class="row"> <div class="column"> <div class="card"> <img src="media/VR.jpg" alt="Jane" style="width:100%"> <div class="container"> <h2>Vikas Rawal</h2> <p class="title">Advisor</p>
 
       </div>
     </div>
