@@ -38,6 +38,3 @@ The onward march of the socialist project will no doubt bring new ways of operat
 
 
 [This article was originally published in The People’s Democracy on July 1, 2018](http://www.networkideas.org/news-analysis/2018/07/why-didnt-socialism-have-over-production-crises/){:target="_blank"}
-=======
-The onward march of the socialist project will no doubt bring new ways of operating socialist economies in future. But all these must incorporate at least two characteristics of old socialism: one is full employment, and the other is the avoidance of over-production crises. No capitalist economy has ever been able to achieve either; no capitalist economy will ever be able to achieve either.
->>>>>>> c4c376ed2bb7485cf965d454423a6bf401f980ce
