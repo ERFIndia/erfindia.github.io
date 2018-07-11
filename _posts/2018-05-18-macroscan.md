@@ -1,15 +1,14 @@
 ---
-title: 'MacroScan: The Push for Privatizing Banks'
+title: 'MacroScan: The Proposed Abolition of the UGC'
 layout: post
 cover_url: "/media/COVER .jpg"
-date: 2018-06-11 05:30:00 +0530
+date: 2018-07-08 00:00:00 +0000
 description: Prabhat Patnaik
 ---
-### The Push for Privatizing Banks
+### The Proposed Abolition of the UGC  
 
 Prabhat Patnaik
 
-Historically,the push for bank privatization which has gathered                              momentum with a rising tendencies to take to neo-liberal policies. The arguments for privatization have been put forward time and time again, depending on economic circumstances. As international finance capital demands outright privatization to control financial resources and popularizes the conception of social interest best served through free finance, the NPA crisis in India has become the justification today.   
-  
+The Modi government is bringing in legislation to abolish the University Grants Commission and replace it with Higher Education Commission of India. The composition of the H.E.C.I. and the advisory council along with the fact that funds will be provided by the H.R.D. ministry is a strong indicator of political interference in the country’s academic life.  
 
-[\*This article was originally published in The People's Democracy on June 10, 2018.](http://www.macroscan.org/fet/jun18/pdf/Privatizing_Banks.pdf)
+[\*](http://macroscan.org/cur/jul18/pdf/Proposed_Abolition_UGC.pdf)This article was originally published in [People's Democracy](http://peoplesdemocracy.in/2018/0708_pd/proposed-abolition-ugc) on July 8, 2018.  
