@@ -9,9 +9,9 @@
   <meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search resu...">
 
   
-  <link rel="stylesheet" href="/assets/styles/core.css?v=20180628122508">
-  <link rel="stylesheet" href="/assets/styles/fontello.css?v=20180628122508">
-  <link rel="stylesheet" href="/assets/styles/highlighting/github.css?v=20180628122508">
+  <link rel="stylesheet" href="/assets/styles/core.css?v=20180711172703">
+  <link rel="stylesheet" href="/assets/styles/fontello.css?v=20180711172703">
+  <link rel="stylesheet" href="/assets/styles/highlighting/github.css?v=20180711172703">
 
   <link rel="canonical" href="http://localhost:4000/research.html">
   <link rel="alternate" type="application/rss+xml" title="Economic Research Foundation" href="/feed.xml">
@@ -20,7 +20,26 @@
 
   
 </head>
+<script type="text/javascript">
+  // Call this function first
+(function () {
+  handleLinks()
+})()
 
+function handleLinks () {
+  // Don't open our own site's links in new tabs
+  var host = location.hostname 
+  // Grab and loop over all <a> elements
+  var allLinks = document.querySelectorAll('a') 
+  for (var i = 0; i < allLinks.length; ++i) {
+    // if links are external and not empty
+    if (allLinks[i].hostname !== host && allLinks[i].hostname !== '') {
+      allLinks[i].target = '_blank'
+    }
+  }
+}
+
+</script>
   <body>
 
   <main class="page-content" aria-label="Content">

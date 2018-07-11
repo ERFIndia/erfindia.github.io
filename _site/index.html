@@ -9,9 +9,9 @@
   <meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search resu...">
 
   
-  <link rel="stylesheet" href="/assets/styles/core.css?v=20180628122508">
-  <link rel="stylesheet" href="/assets/styles/fontello.css?v=20180628122508">
-  <link rel="stylesheet" href="/assets/styles/highlighting/github.css?v=20180628122508">
+  <link rel="stylesheet" href="/assets/styles/core.css?v=20180711172703">
+  <link rel="stylesheet" href="/assets/styles/fontello.css?v=20180711172703">
+  <link rel="stylesheet" href="/assets/styles/highlighting/github.css?v=20180711172703">
 
   <link rel="canonical" href="http://localhost:4000/">
   <link rel="alternate" type="application/rss+xml" title="Economic Research Foundation" href="/feed.xml">
@@ -20,7 +20,26 @@
 
   
 </head>
+<script type="text/javascript">
+  // Call this function first
+(function () {
+  handleLinks()
+})()
 
+function handleLinks () {
+  // Don't open our own site's links in new tabs
+  var host = location.hostname 
+  // Grab and loop over all <a> elements
+  var allLinks = document.querySelectorAll('a') 
+  for (var i = 0; i < allLinks.length; ++i) {
+    // if links are external and not empty
+    if (allLinks[i].hostname !== host && allLinks[i].hostname !== '') {
+      allLinks[i].target = '_blank'
+    }
+  }
+}
+
+</script>
   <body>
 
   <main class="page-content" aria-label="Content">
@@ -76,7 +95,7 @@
   <h1 class="post-title baseline-fix" itemprop="name headline">Home</h1>
 
 
-  <p>Economic Research Foundation is a non-profit trust registered in New Delhi in January 2001. The purpose of the ERF is to conduct research in the field of economics and social issues, public policy, international economic affairs, and other current affairs, and to disseminate the results of such research and analysis through various means including through websites and face-to-face interactions.</p>
+  <p>Economic Research Foundation (ERF) is a non-profit trust registered in New Delhi in January 2001. The purpose of the ERF is to conduct research in the field of economics and social issues, public policy, international economic affairs, and other current affairs, and to disseminate the results of such research and analysis through various means including through websites and face-to-face interactions.</p>
 
 <hr />
 
@@ -91,33 +110,14 @@
   <li class="post-list-item" data-tags="">
     
     <div class="post-item-label">
-      <a class="post-item-link baseline-fix" href="/2018/06/19/sample-post-1.html" data-date="06-19">
-        IDEAs: Has Donald Trump Already Changed US Trade?
-      </a>
-      
-      <p class="post-description">C P Chandrasekhar and Jayati Ghosh</p>
-      
-      <div class="post-item-meta">
-        June 19, 2018
-        
-        
-        
-        
-      </div>
-    </div>
-  </li>
-  
-  <li class="post-list-item" data-tags="">
-    
-    <div class="post-item-label">
-      <a class="post-item-link baseline-fix" href="/2018/06/11/macroscan.html" data-date="06-11">
-        MacroScan: The Push for Privatizing Banks
+      <a class="post-item-link baseline-fix" href="/2018/07/08/macroscan.html" data-date="07-08">
+        MacroScan: The Proposed Abolition of the UGC
       </a>
       
       <p class="post-description">Prabhat Patnaik</p>
       
       <div class="post-item-meta">
-        June 11, 2018
+        July 8, 2018
         
         
         
@@ -129,14 +129,33 @@
   <li class="post-list-item" data-tags="">
     
     <div class="post-item-label">
-      <a class="post-item-link baseline-fix" href="/2018/05/18/mapping-finance.html" data-date="05-18">
-        Mapping Finance: &#39;Riskless Capitalism in India&#39;
+      <a class="post-item-link baseline-fix" href="/2018/07/04/mapping-finance.html" data-date="07-04">
+        Mapping Finance: The Indiscreet Aggression of the Bourgeoisie 
       </a>
       
-      <p class="post-description">Prasenjit Bose, Zico Dasgupta, Rohit Azad</p>
+      <p class="post-description">C.P. Chandrasekhar</p>
       
       <div class="post-item-meta">
-        May 18, 2018
+        July 4, 2018
+        
+        
+        
+        
+      </div>
+    </div>
+  </li>
+  
+  <li class="post-list-item" data-tags="">
+    
+    <div class="post-item-label">
+      <a class="post-item-link baseline-fix" href="/2018/07/01/sample-post-1.html" data-date="07-01">
+        IDEAs: Why didn’t Socialism have Over-production Crises?
+      </a>
+      
+      <p class="post-description">Prabhat Patnaik</p>
+      
+      <div class="post-item-meta">
+        July 1, 2018
         
         
         
