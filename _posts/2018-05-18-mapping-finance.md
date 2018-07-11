@@ -1,11 +1,11 @@
 ---
-title: 'The Indiscreet Aggression of the Bourgeoisie '
+title: 'Mapping Finance: The Indiscreet Aggression of the Bourgeoisie '
 layout: post
 cover_url: "/media/COVER .jpg"
 date: 2018-07-04 00:00:00 +0000
 description: C.P. Chandrasekhar
 ---
-### **Mapping Finance: The Indiscreet Aggression of the Bourgeoisie**
+### **The Indiscreet Aggression of the Bourgeoisie**
 
 C.P. Chandrasekhar
 
