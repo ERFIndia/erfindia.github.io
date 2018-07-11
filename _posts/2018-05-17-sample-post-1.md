@@ -7,7 +7,7 @@ description: Prabhat Patnaik
 ---
 ### Why didn’t Socialism have Over-production Crises?
 
-Prabhat Patnaik  
+Prabhat Patnaik
 
 Socialism has collapsed over large tracts of the globe. Where it still exists, the economic regimes have undergone considerable reforms. Not surprisingly therefore the old socialist regimes are objects of much vilification these days. While capitalism, understandably, has a vested interest in promoting such vilification, the Left opponents of capitalism continue to remain too shell-shocked to counter it.
 
