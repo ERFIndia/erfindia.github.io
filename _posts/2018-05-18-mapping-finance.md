@@ -1,15 +1,14 @@
 ---
-title: 'Mapping Finance: ''Riskless Capitalism in India'''
+title: 'The Indiscreet Aggression of the Bourgeoisie '
 layout: post
 cover_url: "/media/COVER .jpg"
-date: 2018-05-18 00:00:00 +0000
-description: Prasenjit Bose, Zico Dasgupta, Rohit Azad
+date: 2018-07-04 00:00:00 +0000
+description: C.P. Chandrasekhar
 ---
-### ‘Riskless Capitalism’ in India: Bank credit and economic activity
+### **The Indiscreet Aggression of the Bourgeoisie**  
 
-Prasenjit Bose, Zico Dasgupta, Rohit Azad
+C.P. Chandrasekhar  
 
-The  Indian growth story of the 2000s’ cannot be over-simplistically  explained as a result of “market-oriented” reforms. Public sector bank  credit-financed investments, particularly in the infrastructure sector,  played a significant role in sustaining growth, most crucially after the  global economic crisis. Such a growth trajectory, however, proved to be  unsustainable with the expansionary phase coming to an end in 2011–12  and bad loans piling up in the banking system.  
- 
+The financial crisis and a subsequent period of recession affecting the majority population in economies points to the fact that neoliberal economic policy might have lost its legitimacy. On the contrast, a change in mood with Brexit and Trump's victory might not be subsequent setbacks with a new aggression on part of the neoliberal elite. Today, across the world, big business is attempting to influence economic decision-making in ways that can save the neoliberal project from collapse.  
 
-> [Originally posted on Economic & Political Weekly, August 5, 2017.](http://www.mappingfinance.org/uploads/riskless_capitalism.pdf)
+> [This article was originally published in the Frontline Print edition: July 6, 2018 ](http://www.mappingfinance.org/article/547/The-Indiscreet-Aggression-of-the-Bourgeoisie.html#.W0XnBDozbcd) 
