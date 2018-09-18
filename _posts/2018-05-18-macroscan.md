@@ -2,8 +2,8 @@
 title: 'MacroScan: Emergency 2.0'
 layout: post
 cover_url: "/media/COVER .jpg"
-date: 2018-07-08 00:00:00 +0000
-description: Prabhat Patnaik
+date: 2018-08-30 00:00:00 +0000
+description: Jayati Ghosh
 
 ---
 ### Emergency 2.0
