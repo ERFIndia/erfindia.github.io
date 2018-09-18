@@ -3,7 +3,7 @@ title: 'Mapping Finance: The Push for Privatization of Banks'
 layout: post
 cover_url: "/media/COVER .jpg"
 date: 2018-06-11 00:00:00 +0000
-description: C.P. Chandrasekhar
+description: Prabhat Patnaik
 
 ---
 ### **The Push for Privatization of Banks**
