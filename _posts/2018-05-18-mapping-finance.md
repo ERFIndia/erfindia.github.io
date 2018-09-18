@@ -10,7 +10,6 @@ description: C.P. Chandrasekhar
 
 Prabhat Patnaik
 
-
 From  the very beginning there has always been a demand for undoing bank  nationalization in India. This demand naturally gathered momentum with  the adoption of neo-liberal policies. It was completely unacceptable to  international finance capital that the bulk of the banking sector in a  country like India should remain under public ownership. Accordingly,  “friends” of the Wall Street working in the U.S. administration like Tim  Geithner and Larry Summers would visit India and demand of our  government that, even if it could not privatize the entire banking  sector, at least it should send a “signal” by privatizing the State Bank  of India.
 
 The  Indian government however demurred because it feared a backlash of  people’s anger. More recently, however, with the non-performing assets  of public sector banks mounting, there has been a further push for bank  privatization, with a former Deputy Chairman of the Niti Ayog even  asking all political parties to put it on their agenda for the 2019  elections.
@@ -47,4 +46,4 @@ Thus  what the demonetization exercise clearly showed is that the  disbursement 
 
 It  follows therefore that even if infusion of fresh capital into public  sector banks has to be done owing to their large NPAs, there is still no  need to rely on private sector equity for such capital infusion. The  current claim to the contrary is meant merely to dupe people into  believing that, because of the NPAs, there is no alternative to  privatizing public sector banks. This bluff must be called.
 
-(This article was originally published in [The People’s Democracy](https://peoplesdemocracy.in/2018/0610_pd/push-privatising-banks) {:target="_blank"} on June 10, 2018)
+(This article was originally published in [The People’s Democracy](https://peoplesdemocracy.in/2018/0610_pd/push-privatising-banks))
