@@ -12,4 +12,4 @@ Jayati Ghosh
 
 Given the background of failure of the ruling party to fulfil any of its important electoral promises, the recent arrests of lawyers, scholars and human right activists represent the desperate measures by the ruling party                              to stifle, suppress, and divert all voices of criticism, opposition and dissent.
 
-This article was originally published in the [Daily O](https://www.dailyo.in/variety/activists-arrested-emergency-bhima-koregaon-maoists-varavara-rao-sudha-bharadwaj/story/1/26341.html)  on August 29, 2018. {:target="_blank"}
+This article was originally published in the [Daily O](https://www.dailyo.in/variety/activists-arrested-emergency-bhima-koregaon-maoists-varavara-rao-sudha-bharadwaj/story/1/26341.html)  on August 29, 2018. 
