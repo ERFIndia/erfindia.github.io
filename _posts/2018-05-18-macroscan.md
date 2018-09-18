@@ -1,14 +1,16 @@
 ---
-title: 'MacroScan: The Proposed Abolition of the UGC'
+title: 'MacroScan: Emergency 2.0'
 layout: post
 cover_url: "/media/COVER .jpg"
 date: 2018-07-08 00:00:00 +0000
 description: Prabhat Patnaik
+
 ---
-### The Proposed Abolition of the UGC
+### Emergency 2.0
 
-Prabhat Patnaik
+Jayati Ghosh
 
-The Modi government is bringing in legislation to abolish the University Grants Commission and replace it with Higher Education Commission of India. The composition of the H.E.C.I. and the advisory council along with the fact that funds will be provided by the H.R.D. ministry is a strong indicator of political interference in the country’s academic life.
+Given the background of failure of the ruling party to fulfil any of its important electoral promises, the recent arrests of lawyers, scholars and human right activists represent the desperate measures by the ruling party                              to stifle, suppress, and divert all voices of criticism, opposition and dissent.   
+                                 
 
-[\*This article was originally published in People's Democracy on July 8, 2018.](http://macroscan.org/cur/jul18/pdf/Proposed_Abolition_UGC.pdf){:target="_blank"}
+This article was originally published in the [Daily O](https://www.dailyo.in/variety/activists-arrested-emergency-bhima-koregaon-maoists-varavara-rao-sudha-bharadwaj/story/1/26341.html) {:target="_blank"} on August 29, 2018.
