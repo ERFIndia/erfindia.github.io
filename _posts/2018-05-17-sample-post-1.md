@@ -2,8 +2,8 @@
 title: 'IDEAs: Non-performing Power Sector Assets- Signalling a Larger Crisis '
 layout: post
 cover_url: "/media/COVER .jpg"
-date: 2018-06-30 18:30:00 +0000
-description: Prabhat Patnaik
+date: 2018-09-16 18:30:00 +0000
+description: C. P. Chandrasekhar
 
 ---
 ### Non-performing Power Sector Assets : Signalling a Larger Crisis 
