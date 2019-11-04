@@ -3,9 +3,10 @@ layout: page
 title: People
 lang: en
 cover_url: "/media/COVER .jpg"
-position: 99
+position: "99"
 navlevel: header
 navtitle: People
+
 ---
 <div class="row"> <div class="column"> <div class="card"> <img src="media/Sashi.jpg" alt="Jane" style="width:100%"> <div class="container"> <h2>Sashi Kumar</h2> <p class="title">Chairperson</p>
 
@@ -60,23 +61,14 @@ navtitle: People
 
 </div>
 
-<div class="row"> <div class="column"> <div class="card"> <img src="media/person-placeholder.jpg" alt="Jane" style="width:100%"> <div class="container"> <h2>Nancy Yadav</h2> <p class="title">Research Associate</p>
+<div class="row"> <div class="column"> <div class="card"> <img src="media/Varsha.jpg" alt="Jane" style="width:100%"> <div class="container"> <h2>Varsha Gupta</h2> <p class="title">Research Associate</p>
 
       </div>
     </div>
 
 </div>
 
-<div class="column"> <div class="card"> <img src="media/Shreya.jpg" alt="Mike" style="width:100%"> <div class="container"> <h2>Shreya Sharma</h2> <p class="title">Research Associate</p>
-
-      </div>
-    </div>
-
-</div>
-
-<br>
-
-<div class="column"> <div class="card"> <img src="media/Al.jpg" alt="Mike" style="width:100%"> <div class="container"> <h2>Alisha George</h2> <p class="title">Intern</p>
+<div class="column"> <div class="card"> <img src="media/Mohini.jpg" alt="Mike" style="width:100%"> <div class="container"> <h2>Mohini Gupta</h2> <p class="title">Research Associate</p>
 
       </div>
     </div>
