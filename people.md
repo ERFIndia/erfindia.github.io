@@ -3,7 +3,7 @@ layout: page
 title: People
 lang: en
 cover_url: "/media/COVER .jpg"
-position: "12"
+position: "99"
 navlevel: header
 navtitle: People
 
