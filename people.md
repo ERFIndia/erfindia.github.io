@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pages
 title: People
 lang: en
 cover_url: "/media/COVER .jpg"
