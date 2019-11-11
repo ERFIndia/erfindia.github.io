@@ -8,7 +8,7 @@ navlevel: header
 navtitle: People
 
 ---
-<div class="row"> <div class="column"> <div class="card"> <img src="media/Sashi.jpg" alt="Sashi Kumar" style="width:100%"> <div class="container"> <h2>Sashi Kumar</h2> <p class="title">Chairperson</p>
+<div class="column"> <div class="card"> <img src="media/Sashi.jpg" alt="Sashi Kumar" style="width:100%"> <div class="container"> <h2>Sashi Kumar</h2> <p class="title">Chairperson</p>
 
       </div>
     </div>
@@ -29,14 +29,14 @@ navtitle: People
 
 </div>
 
-<div class="row"> <div class="column"> <div class="card"> <img src="media/VR.jpg" alt="Vikas Rawal" style="width:100%"> <div class="container"> <h2>Vikas Rawal</h2> <p class="title">Advisor</p>
+<div class="column"> <div class="card"> <img src="media/VR.jpg" alt="Vikas Rawal" style="width:100%"> <div class="container"> <h2>Vikas Rawal</h2> <p class="title">Advisor</p>
 
       </div>
     </div>
 
 </div>
 
-<div class="row"> <div class="column"> <div class="card"> <img src="media/Anil-1.jpg" alt="Anilkumar Mani" style="width:100%"> <div class="container"> <h2>Anilkumar Mani</h2> <p class="title">Administrative Officer</p>
+<div class="column"> <div class="card"> <img src="media/Anil-1.jpg" alt="Anilkumar Mani" style="width:100%"> <div class="container"> <h2>Anilkumar Mani</h2> <p class="title">Administrative Officer</p>
 
       </div>
     </div>
