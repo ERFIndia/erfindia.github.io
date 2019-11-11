@@ -68,7 +68,4 @@ navtitle: People
 
 <div class="column"> <div class="card"> <img src="media/Mohini.jpg" alt="Mohini Gupta" style="width:100%"> <div class="container"> <h2>Mohini Gupta</h2> <p class="title">Research Associate</p>
 
-      </div>
-    </div>
-
 </div>
