@@ -4,9 +4,10 @@ title: About Us
 lang: en
 cover_url: "/media/COVER .jpg"
 cover_meta: ''
-position: 100
+position: "100"
 navlevel: header
 navtitle: About Us
+
 ---
 Economic Research Foundation (ERF) is a non-profit trust registered in New Delhi in January 2001. The purpose of the ERF is to conduct research in the field of economics and social issues, public policy, international economic affairs, and other current affairs, and to disseminate the results of such research and analysis through various means including through websites and face-to-face interactions.
 
@@ -21,7 +22,7 @@ Since its inception in 2001, the ERF has received funding from the United Nation
 Economic Research Foundation  
 104 Munirka Enclave  
 New Delhi 110 067  
-Phone: +91 11-26168791-93  
+Phone: +91 11-26168791  
 Email: webmaster@erfindia.in
 
 <div>
