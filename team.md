@@ -7,3 +7,9 @@ description: ERF Team
 published: false
 
 ---
+<div class="row"><div class="column"> <div class="card"> <img src="media/Sashi.jpg" alt="Sashi Kumar" style="width:100%"> <div class="container"> <h2>Sashi Kumar</h2> <p class="title">Chairperson</p>
+
+      </div>
+    </div>
+
+</div>
