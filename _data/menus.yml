@@ -1,9 +1,9 @@
 nav:
-  - url: /work.html
+  - url: /work
     title: Work
-  - url: /research.html
+  - url: /research
     title: Research
-  - url: /people.html
+  - url: /people
     title: People
-  - url: /about.html
+  - url: /about
     title: About Us

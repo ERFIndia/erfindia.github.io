@@ -10,10 +10,15 @@ color_scheme: github
 github_username: erfindia
 twitter_username: DevEconNetwork
 facebook-official_username: DevEconNetwork
-markdown: kramdown
-theme: jekyll-theme-kagami
+
+#build settings
+# theme: jekyll-theme-kagami
+permalink: pretty
 
 exclude:
 - Gemfile
 - Gemfile.lock
 - vendor/bundle
+
+plugins:
+  - jekyll-sitemap

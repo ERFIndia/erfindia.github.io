@@ -6,7 +6,7 @@ date: 2018-09-16 18:30:00 +0000
 description: C. P. Chandrasekhar
 
 ---
-### Non-performing Power Sector Assets : Signalling a Larger Crisis 
+### Non-performing Power Sector Assets : Signalling a Larger Crisis
 
 ##### C. P. Chandrasekhar
 
