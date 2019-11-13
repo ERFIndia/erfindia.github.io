@@ -1,0 +1,11 @@
+{% for member in site.data.people %}
+<div class="column">
+  <div class="card">
+    <img src="media/{{ member.img }}" alt=" {{ member.name }}" style="width:100%">
+    <div class="container">
+      <h2>{{ member.name }}</h2>
+      <p class="title">{{ member.title }}</p>
+    </div>
+  </div>
+</div>
+{% endfor %}
