@@ -2,7 +2,6 @@
 layout: homepage
 title: Home
 cover_url: "/media/COVER .jpg"
-position: 1200
 
 ---
 
