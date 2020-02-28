@@ -1,1 +1,9 @@
---- {}
+nav:
+  - url: /work
+    title: Work
+  - url: /research
+    title: Research
+  - url: /people
+    title: People
+  - url: /about
+    title: About Us
