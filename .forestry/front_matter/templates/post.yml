@@ -31,5 +31,5 @@ fields:
   name: description
   label: Description/Author
 pages:
-- _posts/2018-05-18-mapping-finance.md
 - _posts/2018-05-18-macroscan.md
+- _posts/2018-05-18-mapping-finance.md
