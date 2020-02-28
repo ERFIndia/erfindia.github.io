@@ -8,7 +8,7 @@ cover_meta: 'Photo by [Amador Loureiro](https://unsplash.com/@amadorloureiroblan
 '
 
 ---
-* Organised the preparation of the West Bengal Human Development Report, in collaboration with the Government of West Bengal and the Planning Commission, funded by the UNDP, New Delhi and the Planning Commission, Government of India. Project completed in May 2004 with publication of the Report.
+* Organised the preparation of the West Bengal Human Development Report, in collaboration with the Government of West Bengal and the Planning Commission, funded by the UNDP, New Delhi and the Planning Commission, Government of India. Project completed in May 2004 with the publication of the Report.
 * Project on “Cross-border transmission of ICT and development” for Indo-Dutch Programme on Alternatives in Development, funded by Government of the Netherlands and routed through the Indian Council of Social Science Research, New Delhi. Project dates: October 2003 to June 2006.
 * Project on “Macroeconomic implications of trade and financial liberalisation: A comparative study of China, India, Mexico and Thailand”, sponsored by UNDP New York under UNDP Project Document GLO/03/515. Project dates January 2005 to January 2006.
 * Workshop on “[Financial Crime and Fragility under Financial Globalisation](http://www.networkideas.org/ideas-activities/2005/12/workshop-entitled-financial-crime-and-fragility-under-financial-globalisation/)”, India Habitat Centre, New Delhi, India, December 19-20, 2005.
