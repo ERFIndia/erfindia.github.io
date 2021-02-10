@@ -6,7 +6,7 @@ navtitle: Work
 cover_url: "/media/COVER .jpg"
 
 ---
-/media/Macroscan_Logo_Final.jpg**  
+![](/media/Macroscan_Logo_Final.jpg)**  
   
 **[**MacroScan**](http://www.macroscan.org/) seeks to provide an alternative to conservative and mainstream positions in economics. It undertakes and disseminates analyses, by professional economists, of the Indian and global economy. MacroScan also attempts to build capacities to undertake such analyses in order to strengthen those advocating an alternative economic paradigm.
 
