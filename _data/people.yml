@@ -1,13 +1,13 @@
 ---
-- name: Sashi Kumar
-  title: Trustee
-  img: Sashi.jpg
-- name: Jayati Ghosh
-  title: Trustee
-  img: Jayati.jpg
 - name: C. P. Chandrasekhar
   title: Managing Trustee
   img: cpc.jpeg
+- name: Jayati Ghosh
+  title: Trustee
+  img: Jayati.jpg
+- name: Sashi Kumar
+  title: Trustee
+  img: Sashi.jpg
 - name: Vikas Rawal
   title: Advisor
   img: VR.jpg
