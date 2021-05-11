@@ -30,3 +30,5 @@ fields:
 - type: text
   name: description
   label: Description/Author
+pages:
+- _posts/for-free-universal-vaccination-against-covid-19.md
