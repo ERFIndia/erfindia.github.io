@@ -30,5 +30,3 @@ fields:
 - type: text
   name: description
   label: Description/Author
-pages:
-- _posts/2018-05-18-mapping-finance.md
