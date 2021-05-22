@@ -1,4 +1,7 @@
 ---
+- name: Trisha Chandra
+  title: Social Media Handler
+  img: Trisha.jpeg
 - name: C. P. Chandrasekhar
   title: Managing Trustee
   img: cpc.jpeg
@@ -17,12 +20,6 @@
 - name: Surender Rana
   title: Web Assistant
   img: Surender.jpg
-- name: Mohini Gupta
-  title: Research Associate
-  img: Mohini.jpg
-- name: Vardha Gupta
-  title: Research Associate
-  img: Varsha.jpg
 - name: Gangaram Yadav
   title: Office Assistant
   img: Ganga.jpg
