@@ -17,12 +17,12 @@
 - name: Surender Rana
   title: Web Assistant
   img: Surender.jpg
-- name: Gangaram Yadav
-  title: Office Assistant
-  img: Ganga.jpg
 - name: Mohini Gupta
   title: Research Associate
   img: Mohini.jpg
 - name: Vardha Gupta
   title: Research Associate
   img: Varsha.jpg
+- name: Gangaram Yadav
+  title: Office Assistant
+  img: Ganga.jpg
