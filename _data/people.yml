@@ -1,4 +1,7 @@
 ---
+- name: ''
+  title: ''
+  img: person-placeholder.jpg
 - name: C. P. Chandrasekhar
   title: Managing Trustee
   img: cpc.jpeg
