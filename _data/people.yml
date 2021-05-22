@@ -1,7 +1,4 @@
 ---
-- name: ''
-  title: ''
-  img: person-placeholder.jpg
 - name: C. P. Chandrasekhar
   title: Managing Trustee
   img: cpc.jpeg
@@ -26,3 +23,6 @@
 - name: Gangaram Yadav
   title: Office Assistant
   img: Ganga.jpg
+- name: ''
+  title: ''
+  img: person-placeholder.jpg
