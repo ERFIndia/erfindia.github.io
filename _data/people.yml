@@ -22,7 +22,7 @@
   img: trisha.jpg
 - name: " Tanvi Sharma"
   title: Research Associate
-  img: tanvi.jpg
+  img: "/media/tanvi.jpg"
 - name: Hitasha Sharma
   title: Research Associate
   img: hitasha.jpg
