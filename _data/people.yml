@@ -1,7 +1,4 @@
 ---
-- name: Hitasha Sharma
-  title: Research Associate
-  img: "/media/hitasha.jpg"
 - name: C. P. Chandrasekhar
   title: Chief Functionary
   img: cpc.jpeg
@@ -23,6 +20,9 @@
 - name: Trisha Chandra
   title: Social Media Handler
   img: trisha.jpg
+- name: Hitasha Sharma
+  title: Research Associate
+  img: "/media/hitasha.jpg"
 - name: Gangaram Yadav
   title: Office Assistant
   img: Ganga.jpg
