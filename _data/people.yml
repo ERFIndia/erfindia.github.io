@@ -1,7 +1,4 @@
 ---
-- name: Pavitra Kanagaraj
-  title: Research Associate
-  img: pavitra.jpg
 - name: C. P. Chandrasekhar
   title: Chief Functionary
   img: cpc.jpeg
@@ -23,6 +20,9 @@
 - name: Trisha Chandra
   title: Social Media Handler
   img: trisha.jpg
+- name: Pavitra Kanagaraj
+  title: Research Associate
+  img: pavitra.jpg
 - name: " Tanvi Sharma"
   title: Research Associate
   img: tanvi.jpg
