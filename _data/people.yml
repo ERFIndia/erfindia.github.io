@@ -1,7 +1,4 @@
 ---
-- name: ''
-  title: ''
-  img: person-placeholder.jpg
 - name: C. P. Chandrasekhar
   title: Chief Functionary
   img: cpc.jpeg
@@ -29,6 +26,9 @@
 - name: Pavitra Kanagaraj
   title: Research Associate
   img: pavitra.jpg
+- name: ''
+  title: ''
+  img: person-placeholder.jpg
 - name: " Tanvi Sharma"
   title: Research Associate
   img: tanvi.jpg
