@@ -1,4 +1,7 @@
 ---
+- name: ''
+  title: ''
+  img: person-placeholder.jpg
 - name: C. P. Chandrasekhar
   title: Chief Functionary
   img: cpc.jpeg
