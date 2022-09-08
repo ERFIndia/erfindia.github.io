@@ -8,6 +8,8 @@ description: Himanshu
 ---
 ![](https://cdn.thewire.in/wp-content/uploads/2022/09/01110847/Manik3-1-1200x600.jpg)
 
+By Himanshu  
+  
 My last meeting with Professor Abhijit Sen was just a week ago, before his untimely [death](https://thewire.in/education/abhijit-sen-leading-economist-of-indian-agriculture-passes-away) due to a heart attack on August 29.
 
 We were trying to make sense of trends in the Indian economy, particularly in poverty, inequality and employment. We parted with the promise to meet soon to continue our discussion with more data and evidence, which he asked me to bring.
