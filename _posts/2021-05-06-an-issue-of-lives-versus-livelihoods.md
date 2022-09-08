@@ -3,7 +3,7 @@ layout: post
 cover_url: "/media/COVER .jpg"
 title: Remembering Abhijit Sen
 date: 2022-09-07
-description: ''
+description: 'Memorial Meeting '
 
 ---
 ![](/media/remembering_abhijit_sen.jpeg)  
